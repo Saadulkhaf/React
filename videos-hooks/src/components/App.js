@@ -12,7 +12,6 @@ const App = () => {
     setSelectedVideo(videos[0]);
   }, [videos]);
 
-  //   setSelectedVideo(response.data.items[0]);
 
   return (
     <div className="ui container">
